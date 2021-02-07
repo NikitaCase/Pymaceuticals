@@ -67,3 +67,5 @@ eq = f'y= {str(round(slope))}x + {str(round(intercept))},   r={str(round(rvalue,
 
 ![Tumov Volume vs Weight](/images/tumorvol_vs_weight.png)
 
+~Nikita Case
+
